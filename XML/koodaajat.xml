@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<koodaajat xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <koodaaja>
+    <nimi>Linus </nimi>
+    <paiva>17.5.1992</paiva>
+    <aika>3.0</aika>
+  </koodaaja>
+  <koodaaja>
+    <nimi>Hermanni</nimi>
+    <paiva>10.12.2015</paiva>
+    <aika>4.0</aika>
+  </koodaaja>
+  <koodaaja>
+    <nimi>Mauri</nimi>
+    <paiva>10.12.2015</paiva>
+    <aika>3.7</aika>
+  </koodaaja>
+  <koodaaja>
+    <nimi>pekka</nimi>
+    <paiva>10.12.2015</paiva>
+    <aika>2.6</aika>
+  </koodaaja>
+  <koodaaja>
+    <nimi>pekka</nimi>
+    <paiva>10.12.2015</paiva>
+    <aika>3.9</aika>
+  </koodaaja>
+  <koodaaja>
+    <nimi>Linus</nimi>
+    <paiva>10.12.2015</paiva>
+    <aika>10.7</aika>
+  </koodaaja>
+  <koodaaja>
+    <nimi>Linus</nimi>
+    <paiva>10.12.2015</paiva>
+    <aika>23.6</aika>
+  </koodaaja>
+</koodaajat>

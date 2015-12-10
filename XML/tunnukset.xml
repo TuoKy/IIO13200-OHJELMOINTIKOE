@@ -1,0 +1,18 @@
+<kayttajat>
+	<kayttaja>
+		<nimi>Linus</nimi>
+		<passu>asd</passu>
+	</kayttaja>
+	<kayttaja>
+		<nimi>Richard</nimi>
+		<passu>curry</passu>
+	</kayttaja>
+	<kayttaja>
+		<nimi>Monty</nimi>
+		<passu>Majonesius</passu>
+	</kayttaja>
+	<kayttaja>
+		<nimi>Bjarne</nimi>
+		<passu>Kehveli</passu>
+	</kayttaja>
+</kayttajat>
